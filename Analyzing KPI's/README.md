@@ -2,7 +2,8 @@ Microsoft Power BI: https://app.powerbi.com/links/2pw9M7JIdI?ctid=8051c068-3df3-
 
 Desktop Version:
 
-![image](https://github.com/user-attachments/assets/eda39f82-104d-482e-9106-f68732fe03cb)
+![image](https://github.com/user-attachments/assets/891df19d-30e9-42c8-9af6-45fb57cf77cd)
+
 
 
 Mobile Version:
